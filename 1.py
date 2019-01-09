@@ -46,7 +46,7 @@
 # print(a[0])
 # print(a[0:8])
 # print(a)
-# x = a.strip()
+# x = a.strip() // remove white space
 # print(len(x))
 # print(len(a))
 # print(x.lower())
